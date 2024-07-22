@@ -60,7 +60,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-    color: #3da2d4;
+    color: #3d49d4;
     font-weight: 700;
     margin-bottom: 20px;
     font-family: 'Montserrat', sans-serif;
@@ -464,8 +464,8 @@ About
 }
 
 #about .content h2 {
-    color: #3da2d4;
-    font-weight: 300;
+    color: #3D49D4;
+    font-weight: 400;
     font-size: 24px;
     text-align: left;
 }
@@ -854,7 +854,7 @@ Footer
 ================================= */
 
 footer {
-    background: #004d73;
+    background: #FFA500;
     color: #fff;
     padding: 50px 0 30px;
 }

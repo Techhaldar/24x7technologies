@@ -8,7 +8,7 @@
     list-style-type: decimal;
     /*IE 7- hack*/
     margin: 0;
-    margin-left: 1em;
+    margin-left: 5em;
     padding: 0;
     counter-reset: li-counter;
 }
@@ -18,7 +18,8 @@
     margin-bottom: 1.5em;
     padding: 0.5em;
     background-color: lightsteelblue;
-    padding-left: 58px;
+    padding-left: 35px;
+    width:90%;
 }
 
 .list-type5 a {
